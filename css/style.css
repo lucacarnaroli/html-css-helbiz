@@ -139,24 +139,30 @@ header {
 }
 /* main */
 .box_learnmore {
-  background-color: grey;
+  background-color: #FAFAFA;
   height: 700px;
-  width: 500px;
   margin-top: 100px;
-  margin-left: 55px;
+}
+.col_box {
+  padding: 20px;
 }
 .box_learnmore img {
   height: 500px;
-  margin-left: 110px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .title_helbizgo {
   font-size: 35px;
   text-align: center;
   margin-bottom: 10px;
+
 }
 .title_helbizgo_h2 {
   text-align: center;
   margin-bottom: 10px;
+  font-size: 17px;
+  font-family: 'Merriweather', serif;
 }
 .link_learn_more {
   display: block;
